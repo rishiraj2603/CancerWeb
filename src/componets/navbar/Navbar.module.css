@@ -1,0 +1,15 @@
+.heading{
+    font-weight: 850;
+    font-size: 35px;
+}
+.main{
+    width: 100%;
+    background-color: white;
+}
+.search{
+    width: 95%;
+}
+.logo{
+height: 93px;
+width: 93px;
+}
